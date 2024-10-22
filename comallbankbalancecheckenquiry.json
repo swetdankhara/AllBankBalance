@@ -1,0 +1,80 @@
+{
+  "status": {
+    "appname": "EMI Calculator",
+    "adstatus": 0,
+    "admob_adstatus": 0,
+    "facebook_adstatus": 0
+  },
+  "admob": {
+    "appopen_id": "/21775744923/example/app-open",
+    "banner_id": "ca-app-pub-3940256099942544/2014213617",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial_id": ""
+  },
+  "facebook": {
+    "appopen_id": "",
+    "banner_id": "",
+    "native_id": "",
+    "interstitial_id": ""
+  },
+  "frequency_capping": {
+    "frequency_banner": "0",
+    "frequency_native": "0",
+    "frequency_interstitial": "0",
+    "frequency_openad": "2",
+    "frequency_Backinterstitial": "0",
+    "frequency_affiliate": "0",
+    "onresume_openad": "0"
+  },
+  "extra": {
+    "privacyPolicy": "https://loanbossemi.blogspot.com/2024/10/privacy-policy.html",
+    "contactUS": "https://forms.gle/dzkLjrjq28BFMM2c7",
+    "extrascreen9": 0,
+    "interAdDialog": 0,
+    "nativebtn_up": 0,
+    "bannerTimer": 100000,
+    "CollabsizebannerTimer": 1000,
+    "nativeclickupgrade": 0,
+    "affiliate_url": "",
+    "fbAppID": "1234",
+    "fbClientID": "5678",
+    "userTracking": 0,
+    "userTrackingURL": "",
+    "userTrackingType": 0,
+    "collapsizeBanner": 0,
+    "someTimeAgain": 0,
+    "bannerAltnativeShow": false,
+    "enableNotify": "",
+    "onesignal": ""
+  },
+  "Installextra": {
+    "adstatus": 0,
+    "admob_adstatus": 0,
+    "facebook_adstatus": 0,
+    "admob_appopen_id": "/21775744923/example/app-open",
+    "admob_banner_id": "ca-app-pub-3940256099942544/2014213617",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "fb_appopen_id": "",
+    "fb_banner_id": "",
+    "fb_native_id": "",
+    "fb_interstitial_id": "",
+    "frequency_banner": "0",
+    "frequency_native": "0",
+    "frequency_interstitial": "0",
+    "frequency_Backinterstitial": "0",
+    "frequency_affiliate": "0",
+    "extrascreen9": 1,
+    "interAdDialog": 0,
+    "nativebtn_up": 0,
+    "bannerTimer": 10000,
+    "nativeclickupgrade": 0,
+    "affiliate_url": "https://17.mark.mglgamez.com/pregames",
+    "collapsizeBanner": 0,
+    "someTimeAgain": 0,
+    "bannerAltnativeShow": false,
+    "enableNotify": "",
+    "onesignal": ""
+  },
+  "custom_banner": []
+}
