@@ -1,8 +1,8 @@
 {
   "status": {
     "appname": "EMI Calculator",
-    "adstatus": 1,
-    "admob_adstatus": 1,
+    "adstatus": 0,
+    "admob_adstatus": 0,
     "facebook_adstatus": 0
   },
   "admob": {
